@@ -1,3 +1,13 @@
+---
+title: AI Data Analyst
+emoji: 📊
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.58.0
+app_file: app.py
+pinned: false
+---
 
 # 🚀 Autonomous AI Data Analyst Platform
 **A High-Performance, Multi-Agent Data Analytics Engine powered by LangGraph & Google Gemini**
@@ -88,14 +98,3 @@ AI-Data-Analyst-Agent/
 ├── app.py              # Main Streamlit UI deployment
 └── requirements.txt    # Frozen dependency graph
 ```
-
----
-title: AI Data Analyst
-emoji: 📊
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.58.0
-app_file: app.py
-pinned: false
----
